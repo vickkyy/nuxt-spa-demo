@@ -15,7 +15,8 @@
   "dependencies": {
     "node-sass": "^4.9.0",
     "nuxt": "^1.0.0",
-    "sass-loader": "^7.0.3"
+    "sass-loader": "^7.0.3",
+    "vuex-persistedstate": "^2.5.4"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
