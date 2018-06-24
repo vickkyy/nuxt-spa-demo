@@ -47,3 +47,6 @@ export const plugins = [
 而页面部分无需改动, 简单测试一下, 非常有效, 代码看起来清爽多了.
 
 当然在插件的这个`createPersistedState`中, 可以配置的参数很多, 你也可以直接改成`localStorage`来永久存储.
+
+> 上面这个示例来自[Nuxt官方example](https://github.com/nuxt/nuxt.js/tree/3b2ed038da93d2bef8de8848b30d4071091e58cd/examples/vuex-persistedstate)
+
